@@ -17,8 +17,8 @@ import ta
 #  CONFIGURATION — Modifie ces valeurs
 # ─────────────────────────────────────────
 
-API_KEY    = "COLLE_TA_CLE_API_ICI"
-API_SECRET = "COLLE_TON_SECRET_ICI"
+API_KEY    = pdu4MbB6ibVgSyRGy32PVEe5SybmcAINnkTvDJErdUxyyKrjBCgkCutpgaTk30Bt
+API_SECRET = SEH1Yd4YlaNgY8vPNCLjjX4PKfhl756I1WrVjEZic4q5RMzYL77zb0Hi1iJdvsPK
 
 SYMBOL          = "BTCUSDT"    # Paire tradée (ex: ETHUSDT, BNBUSDT)
 TRADE_AMOUNT    = 10.0         # Montant en USDT par ordre (adapte à ton capital)
